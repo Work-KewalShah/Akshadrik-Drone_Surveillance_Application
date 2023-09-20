@@ -26,9 +26,15 @@ Through these features, Akshadrik strives to be a valuable tool for drone-based 
 
 ## Screenshots
 <p align="center">
-  <img src = "https://i.imgur.com/Eaoo0F9.png" width=500><br>
-  Welcome page with instructions
-  <br>
+  <img src = "https://i.imgur.com/gae9kUs.png" width=500><br>
+  Multiple options for easy customization
+  <br><br>
+</p>
+
+<p align="center">
+  <img src = "https://i.imgur.com/Og7ALey.png" width=500>
+     <img src = "https://i.imgur.com/aG9vIuT.png" width=500><br>
+  Choose from various detection categories
 </p>
 
 ## Installation and Usage
