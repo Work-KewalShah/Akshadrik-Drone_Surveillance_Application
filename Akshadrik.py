@@ -152,7 +152,7 @@ def on_close():
 
 # Creating the main window
 window = tk.Tk()
-window.title("Object Detection App")
+window.title("Akshadrik")
 
 top_frame = tk.Frame(window)
 
