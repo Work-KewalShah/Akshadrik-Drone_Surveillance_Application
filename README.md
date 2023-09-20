@@ -83,6 +83,24 @@ Akshadrik is a GUI application designed for detecting specific targets selected 
 
    Experience real-time object detection with Akshadrik as it highlights recognized objects in the video feed.
 
+## Known Issues
+
+While we have made every effort to ensure a smooth and reliable experience with Akshadrik, you may encounter some known issues when running the application:
+
+1. **Video Source Compatibility:** The application may not work correctly with certain video sources or external cameras. Ensure that your video source is properly configured, and the camera drivers are up to date.
+
+2. **Performance on Low-End Systems:** On low-end hardware configurations, you may experience reduced performance or lag during real-time detection. We recommend using a system with adequate processing power for optimal results.
+
+3. **Dependency Conflicts:** Depending on your system and environment, you may encounter dependency conflicts or installation issues. Make sure you have installed the required dependencies as outlined in the Usage Instructions.
+
+4. **Object Recognition Accuracy:** While we aim for accurate object detection, the performance may vary depending on the lighting conditions, camera quality, and the specific objects being detected.
+
+5. **Limited Operating Systems:** The application is primarily tested on certain operating systems, and there may be compatibility issues with less common or older systems.
+
+6. **User Interface (UI) Responsiveness:** The UI may become unresponsive during intense processing tasks. This is a limitation of the current implementation.
+
+7. **Resource Consumption:** Akshadrik may consume a significant amount of system resources, especially during real-time detection. Ensure that your system meets the hardware requirements.
+
 ## Contact Me
 
 I'd love to hear from you and answer any questions you may have about the applications or any other projects. Feel free to reach out to me:
