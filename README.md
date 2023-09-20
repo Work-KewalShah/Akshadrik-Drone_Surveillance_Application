@@ -44,6 +44,7 @@ Akshadrik is a GUI application designed for detecting specific targets selected 
 2. **Install Dependencies:**
 
    ```shell
+   git clone https://github.com/ultralytics/yolov5
    pip install -r requirements.txt
 
 3. **Run the Application:**
